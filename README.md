@@ -15,7 +15,7 @@
 
 #### Example
 
-![minimum-cost flow problem example](C:\Users\dell\Desktop\研究生\个人算法主页\The dual algorithm for the minimum-cost flow problem\minimum-cost flow problem example.png)
+![](https://github.com/Xavier-MaYiMing/The-Dual-Algorithm-for-the-Minimum-Cost-Flow-Problem/blob/main/minimum-cost%20flow%20problem%20example.png)
 
 ```python
 if __name__ == '__main__':
